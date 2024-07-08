@@ -11,6 +11,9 @@ services:
     volumes:
       - ./app:/var/www/html
       - ./build/apache2/log:/var/log/apache2
+      # Sincroniza o container com a timezone local do host
+      - /etc/localtime:/etc/localtime:ro
+      - /etc/timezone:/etc/timezone:ro
       
 # Inicia o container para o Serviço MySql
   mysql:
