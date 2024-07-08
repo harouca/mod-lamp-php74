@@ -15,4 +15,6 @@ Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](h
 * Convide alguém da equipe para uma cerveja 🍺;
 * Um agradecimento publicamente 🫂;
 
+## Referências
 
+- Modelo do README.md, disponível em [Armstrong Lohãns](https://gist.github.com/lohhans).
